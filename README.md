@@ -6,6 +6,12 @@ AIF studies intelligence as an adaptive boundary-regulation problem. This reposi
 
 Historical AIF v4 remains a research artifact. It should not be read as establishing a universal chi=1 intelligence optimum, a universal 0.8-0.95 adaptive band, or a single scalar law of intelligence.
 
+## Current governance
+
+Current migration record: `GOM_V0.8.3_MIGRATION_20260921.md`.
+
+GOM v0.8.3 requires any scientifically licensed local chi and the broader adaptive-system Chi architecture to be interpreted jointly, while perturbation/recovery remains a separately defined evidence layer. Stability, convergence, consensus, and recovery are not treated as interchangeable concepts.
+
 ## Current scientific posture
 
 The current AIF direction is architecture-first rather than scalar-first.
@@ -57,7 +63,7 @@ Public historical documents include:
 - `SymC_Methodology.pdf`
 - archived AIF bundles
 
-These are preserved for provenance. Later explicit corrections, project-local freezes, and GOM-v0.8.0 controls govern present interpretation where they conflict with older broad language.
+These are preserved for provenance. Later explicit corrections, project-local freezes, and GOM-v0.8.3 controls govern present interpretation where they conflict with older broad language.
 
 ## Repository status
 
